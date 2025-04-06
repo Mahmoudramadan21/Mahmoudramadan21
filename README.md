@@ -1,61 +1,44 @@
-# Hi, I'm Mahmoud Ramadan
+# 👋 Hi, I'm Mahmoud Ramadan
 
-Frontend Developer | React Enthusiast | Passionate About UI/UX
+🎯 **Frontend Developer | React Enthusiast | Passionate About UI/UX**
 
-I'm a frontend developer with a strong focus on building modern, responsive, and user-friendly web applications. I enjoy working with React and constantly improving my skills in frontend development.
+I'm a frontend developer with a strong passion for building responsive and accessible web applications using modern tools and technologies. I specialize in **React.js**, and I'm constantly enhancing my skills in performance optimization, clean code practices, and creating smooth user experiences.
 
-## My Projects
+---
 
-1. **Bookify**
+## 🧠 Skills
 
-   - [Live Demo](https://bookiffyy.netlify.app/)
-   - [Source Code](https://github.com/Mahmoudramadan21/11.-Bookify)
+- **Frontend:** HTML5, CSS3 (SASS, Tailwind CSS), JavaScript (ES6+), TypeScript, React.js, Redux  
+- **UI/UX & Performance:** Responsive Design, Accessibility (ARIA), SEO Optimization, Web Performance  
+- **Tools & Platforms:** Git & GitHub, Netlify, Chrome DevTools, Figma  
+- **Other:** REST APIs, Axios, OOP, Basic Algorithms & Data Structures
 
-2. **E-commerce Product Page**
+---
 
-   - [Live Demo](https://bejewelled-pie-0c3f89.netlify.app/)
-   - [Source Code](https://github.com/Mahmoudramadan21/5.-ecommerce-product-page-main-React-)
+## 💼 Experience
 
-3. **Blog App**
+### Digital Egypt Pioneers – Frontend Developer  
+*Ministry of Communications and Information Technology*  
+📅 Oct 2024 – Present
 
-   - [Live Demo](https://blogapp2145.netlify.app/)
-   - [Source Code](https://github.com/Mahmoudramadan21/9.-blogApp)
+- Trained on React and modern frontend frameworks in a full-time 6-month scholarship.  
+- Built multiple real-world projects with a focus on accessibility, responsiveness, and performance.
 
-4. **Agency Landing Page (SunnySide)**
+### NTI – Web Development Intern  
+📅 Jul 2024 – Aug 2024
 
-   - [Live Demo](https://sunnysiddee.netlify.app/)
-   - [Source Code](https://github.com/Mahmoudramadan21/12.-sunnySide)
+- Gained hands-on experience with frontend fundamentals.  
+- Delivered responsive web apps using semantic HTML and modern CSS.
 
-5. **Loopstudios Landing Page**
+---
 
-   - [Live Demo](https://mahmoudramadan21.github.io/8.-loopstudios-landing-page-main/)
-   - [Source Code](https://github.com/Mahmoudramadan21/8.-loopstudios-landing-page-main)
+## 📬 Contact Me
 
-6. **Huddle Landing Page**
+- 📧 **Email:** mahmoud.fd25@gmail.com  
+- 🔗 **LinkedIn:** [mahmoudramadan21](https://www.linkedin.com/in/mahmoudramadan21/)  
+- 💻 **GitHub:** [Mahmoudramadan21](https://github.com/Mahmoudramadan21)  
+- 📍 **Location:** Mansoura, Egypt
 
-   - [Live Demo](https://mahmoudramadan21.github.io/1.-huddle-landing-page-with-alternating-feature-blocks-master/)
-   - [Source Code](https://github.com/Mahmoudramadan21/1.-huddle-landing-page-with-alternating-feature-blocks-master)
+---
 
-7. **Intro Section with Dropdown Navigation**
-
-   - [Live Demo](https://imaginative-douhua-dd06f6.netlify.app/)
-   - [Source Code](https://github.com/Mahmoudramadan21/4.-intro-section-with-dropdown-navigation-main-React-)
-
-8. **Kasper**
-
-   - [Live Demo](https://mahmoudramadan21.github.io/3.-Template-2-HTML-And-CSS--main/)
-   - [Source Code](https://github.com/Mahmoudramadan21/3.-Template-2-HTML-And-CSS--main)
-
-9. **Contact Form**
-
-   - [Live Demo](https://mahmoudramadan21.github.io/6.-contact-form-main/)
-   - [Source Code](https://github.com/Mahmoudramadan21/6.-contact-form-main)
-
-10. **Multi-step Form**
-    - [Live Demo](https://multi-step-formmmm.netlify.app/)
-    - [Source Code](https://github.com/Mahmoudramadan21/13.-Multi-step-form)
-
-## Connect with Me
-
-- [GitHub](https://github.com/Mahmoudramadan21)
-- [LinkedIn](https://www.linkedin.com/in/mahmoudramadan21/)
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
