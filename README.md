@@ -6,7 +6,7 @@ I'm a frontend developer with a strong passion for building responsive and acces
 
 ---
 
-## 🧠 Skills
+## 🧰 Skills
 
 - **Frontend:** HTML5, CSS3 (SASS, Tailwind CSS), JavaScript (ES6+), TypeScript, React.js, Redux  
 - **UI/UX & Performance:** Responsive Design, Accessibility (ARIA), SEO Optimization, Web Performance  
