@@ -17,18 +17,19 @@ I'm a frontend developer with a strong passion for building responsive and acces
 
 ## 💼 Experience
 
-### Digital Egypt Pioneers – Frontend Developer  
+### Digital Egypt Pioneers Initiative (DEPI) – Frontend Developer  
 *Ministry of Communications and Information Technology*  
 📅 Oct 2024 – Present
 
-- Trained on React and modern frontend frameworks in a full-time 6-month scholarship.  
-- Built multiple real-world projects with a focus on accessibility, responsiveness, and performance.
+- Completed intensive 6-month training on modern frontend technologies.
+- Key topics: React, TypeScript, JavaScript (ES6), HTML5, CSS3, Bootstrap, UX/UI, Git & GitHub, Docker, Node.js + Express, Testing & Documentation, Prompt Engineering.
+- Built real-world projects focused on performance, accessibility, and responsiveness. 
 
-### NTI – Web Development Intern  
+### National Telecommunication Institute (NTI) – Web Development Intern  
 📅 Jul 2024 – Aug 2024
 
-- Gained hands-on experience with frontend fundamentals.  
-- Delivered responsive web apps using semantic HTML and modern CSS.
+- Hands-on training in HTML5, CSS3, JavaScript (ES6), and React.
+- Developed responsive web apps using modern frontend practices.
 
 ---
 
