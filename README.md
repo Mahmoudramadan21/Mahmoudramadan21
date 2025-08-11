@@ -28,7 +28,7 @@
 - 🚀 I focus on delivering **pixel-perfect**, **accessible**, and **SEO-optimized** solutions with clean code and modern design principles.
 - 🎓 **B.S. in Computer Science**, Mansoura University, Egypt (Graduated August 2025).
 - 🌍 Based in **Mansoura, Egypt**.
-- 📫 Contact me at: **mahmoud.fd25@gmail.com** | **+20 155 706 3052**.
+- 📫 Contact me at: **mahmoud.fd25@gmail.com** | **+201557063052**.
 - 📄 View my **[Resume](https://drive.google.com/file/d/12Bkcg7zpT99G7yHrbqcx1ArwRVS_qUz7/view?usp=sharing)**.
 
 <p align="center">
