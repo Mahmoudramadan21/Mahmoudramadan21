@@ -19,7 +19,7 @@ I'm a frontend developer with a strong passion for building responsive and acces
 
 ### Digital Egypt Pioneers Initiative (DEPI) – Frontend Developer  
 *Ministry of Communications and Information Technology*  
-📅 Oct 2024 – Present
+📅 Oct 2024 – May 2025
 
 - Completed intensive 6-month training on modern frontend technologies.
 - Key topics: React, TypeScript, JavaScript (ES6), HTML5, CSS3, Bootstrap, UX/UI, Git & GitHub, Docker, Node.js + Express, Testing & Documentation, Prompt Engineering.
