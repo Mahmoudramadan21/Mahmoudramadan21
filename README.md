@@ -128,6 +128,9 @@
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoudramadan21&theme=radical&hide_border=true&date_format=M%20j%5B,%20Y%5D" alt="Mahmoud's GitHub streak" width="400"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudramadan21&layout=compact&theme=onedark&hide_border=true&langs_count=8&custom_title=Top%20Languages" alt="Top Languages" width="350" />
